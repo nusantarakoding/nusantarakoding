@@ -1,19 +1,19 @@
-## Hello World! :smiley_cat: I'm Nusantara Koding!
+## Hello World! :smiley_cat: We are Nusantara Koding!
 ![Profile Views](https://gpvc.arturio.dev/nusantarakoding)
 ![image](https://img.shields.io/github/followers/nusantarakoding?label=follow&style=social)
 
-I'm Alfharizky, a **Informatics Engineering** Student & **Web Developer** :man_technologist::man_student: from indonesia. I'm passionate about programming and software engineering. I love to learn about new things especially in Tech world. 
+We are Nusantara Koding, **Web Developer** :man_technologist::man_student: from indonesia. We passionate about programming and software engineering. We love to learn about new things especially in Tech world. 
 
 
-## I'm a Full-stack Web Developer!
-- 👷‍♂️ I’m currently working on my personal projects and freelance job
-- 🚀 I’m currently learning to become a Fullstack Developer 🤣
-- 👋 I’m looking for developer friends!
+## We are a Full-stack Web Developer!
+- 👷‍♂️ We currently working on my personal projects and freelance job
+- 🚀 We currently learning to become a Fullstack Developer 🤣
+- 👋 We looking for developer friends!
 - 🎯 2021 Goals: Build up my resume and get an internship or jobs
 - ⚡ Fun fact: I love to learn new things
 - 📫 You can reach me at <a href="https://github.com/alfharizkyfauzi">Alfharizky Fauzi</a>
 
-### Connect with me:
+### Connect with us:
 
 [<img align="left" alt="nusantarakoding | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/youtube.svg" />][youtube]
 [<img align="left" alt="nusantarakoding | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/github.svg" />][github]
