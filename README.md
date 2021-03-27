@@ -50,7 +50,6 @@ I'm Alfharizky, a **Informatics Engineering** Student & **Web Developer** :man_t
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nusantarakoding&theme=radical&layout=compact&langs_count=8&hide_border=true" height=178 />
 </p>
 
-
 [youtube]: https://www.youtube.com/channel/UCuVJAKhCsG99kMxrUzK32fQ
 [instagram]: https://www.instagram.com/nusantarakoding/
 [github]: https://github.com/nusantarakoding/
