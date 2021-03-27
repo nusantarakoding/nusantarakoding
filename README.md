@@ -9,9 +9,9 @@ We are Nusantara Koding, **Web Developer** :man_technologist::man_student: from 
 - 👷‍♂️ We currently working on my personal projects and freelance job
 - 🚀 We currently learning to become a Fullstack Developer 🤣
 - 👋 We looking for developer friends!
-- 🎯 2021 Goals: Build up my resume and get an internship or jobs
+- 🎯 2021 Goals: Diamond Play Buttons yeay!!!
 - ⚡ Fun fact: I love to learn new things
-- 📫 You can reach me at <a href="https://github.com/alfharizkyfauzi">Alfharizky Fauzi</a>
+- 📫 You can reach me at <a href="mailto:nusantarakoding@gmail.com">Nusantara Koding Email</a>
 
 ### Connect with us:
 
@@ -38,6 +38,7 @@ We are Nusantara Koding, **Web Developer** :man_technologist::man_student: from 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Tailwind" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
 
 <br />
 <br />
